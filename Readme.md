@@ -1,1 +1,1 @@
---NEXT PROMPT-- Create a python file and print hello world---PROMPT END--
+--NEXT PROMPT-- Create a python file and ping google.com 3 times---PROMPT END--
